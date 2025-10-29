@@ -95,7 +95,7 @@ Design part :
 
 App : 
 
-<img src="./imgs/Screenshot_2025-09-21-14-23-34-10_75e22de485770cf270f32d8d48456039.jpg" height=400>
+<img src="./imgs/IMG_20251029_090505.jpg" height=400>
 
 <img src="./imgs/Screenshot_2025-09-21-14-23-41-10_0ce57feeccaa51fb7deed04b4dbda235.jpg" height=400>
 
